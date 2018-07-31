@@ -1,0 +1,23 @@
+
+Gurobi 8.0.0 (win64, Python) logging started 05/26/18 17:38:15
+
+Academic license - for non-commercial use only
+Optimize a model with 9 rows, 9 columns and 31 nonzeros
+Variable types: 0 continuous, 9 integer (9 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Found heuristic solution: objective 3.0000000
+Presolve removed 9 rows and 9 columns
+Presolve time: 0.08s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.17 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 2: 2 3 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.000000000000e+00, best bound 2.000000000000e+00, gap 0.0000%
