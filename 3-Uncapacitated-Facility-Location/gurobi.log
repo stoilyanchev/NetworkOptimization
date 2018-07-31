@@ -1,0 +1,30 @@
+
+Gurobi 8.0.0 (win64, Python) logging started 05/26/18 23:43:54
+
+Academic license - for non-commercial use only
+Optimize a model with 70 rows, 66 columns and 180 nonzeros
+Variable types: 0 continuous, 66 integer (66 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+01, 2e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+Found heuristic solution: objective 4121.0000000
+Presolve time: 0.05s
+Presolved: 70 rows, 66 columns, 180 nonzeros
+Variable types: 0 continuous, 66 integer (66 binary)
+
+Root relaxation: objective 8.030000e+02, 28 iterations, 0.05 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0     803.0000000  803.00000  0.00%     -    0s
+
+Explored 0 nodes (28 simplex iterations) in 0.32 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 803 4121 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 8.030000000000e+02, best bound 8.030000000000e+02, gap 0.0000%
