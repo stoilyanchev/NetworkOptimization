@@ -1,0 +1,125 @@
+
+Gurobi 8.0.0 (win64, Python) logging started 05/28/18 08:53:58
+
+Academic license - for non-commercial use only
+Optimize a model with 1 rows, 1225 columns and 1225 nonzeros
+Variable types: 0 continuous, 1225 integer (1225 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+02, 5e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+01, 5e+01]
+Found heuristic solution: objective 124095.00000
+Presolve removed 0 rows and 836 columns
+Presolve time: 0.16s
+Presolved: 1 rows, 389 columns, 389 nonzeros
+Variable types: 0 continuous, 389 integer (121 binary)
+
+Root relaxation: objective 1.348800e+04, 1 iterations, 0.07 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    13488.000000 13488.0000  0.00%     -    0s
+
+Explored 0 nodes (1 simplex iterations) in 0.42 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 2: 13488 124095 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.348800000000e+04, best bound 1.348800000000e+04, gap 0.0000%
+Changed value of parameter lazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 1 rows, 1225 columns and 1225 nonzeros
+Variable types: 0 continuous, 1225 integer (1225 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+02, 5e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [5e+01, 5e+01]
+Presolve time: 0.00s
+Presolved: 1 rows, 1225 columns, 1225 nonzeros
+Variable types: 0 continuous, 1225 integer (1225 binary)
+
+Root relaxation: objective 1.348800e+04, 1 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    16831.000000 16831.0000  0.00%     -    2s
+
+Cutting planes:
+  Lazy constraints: 27
+
+Explored 0 nodes (47 simplex iterations) in 2.12 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 16831 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.683100000000e+04, best bound 1.683100000000e+04, gap 0.0000%
+
+Gurobi 8.0.0 (win64, Python) logging started 05/28/18 09:30:10
+
+Academic license - for non-commercial use only
+Changed value of parameter lazyConstraints to 1
+   Prev: 0  Min: 0  Max: 1  Default: 0
+Optimize a model with 1 rows, 300 columns and 300 nonzeros
+Variable types: 0 continuous, 300 integer (300 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+02, 8e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+01, 2e+01]
+Presolve time: 0.00s
+Presolved: 1 rows, 300 columns, 300 nonzeros
+Variable types: 0 continuous, 300 integer (300 binary)
+
+Root relaxation: objective 1.478700e+04, 1 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    19054.000000 19054.0000  0.00%     -    0s
+
+Cutting planes:
+  Lazy constraints: 9
+
+Explored 0 nodes (24 simplex iterations) in 0.08 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 19054 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.905400000000e+04, best bound 1.905400000000e+04, gap 0.0000%
+Parameter lazyConstraints unchanged
+   Value: 1  Min: 0  Max: 1  Default: 0
+Optimize a model with 1 rows, 300 columns and 300 nonzeros
+Variable types: 0 continuous, 300 integer (300 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+02, 8e+03]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+01, 2e+01]
+Presolve time: 0.00s
+Presolved: 1 rows, 300 columns, 300 nonzeros
+Variable types: 0 continuous, 300 integer (300 binary)
+
+Root relaxation: objective 1.478700e+04, 1 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    19054.000000 19054.0000  0.00%     -    0s
+
+Cutting planes:
+  Lazy constraints: 9
+
+Explored 0 nodes (24 simplex iterations) in 0.04 seconds
+Thread count was 4 (of 4 available processors)
+
+Solution count 1: 19054 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.905400000000e+04, best bound 1.905400000000e+04, gap 0.0000%
