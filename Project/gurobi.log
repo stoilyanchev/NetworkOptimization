@@ -1,0 +1,1082 @@
+
+Gurobi 8.0.0 (win64, Python) logging started 07/03/18 08:58:15
+
+Academic license - for non-commercial use only
+Optimize a model with 90 rows, 945 columns and 1620 nonzeros
+Variable types: 810 continuous, 135 integer (135 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+02, 4e+03]
+  Bounds range     [1e+00, 1e+01]
+  RHS range        [1e+00, 1e+00]
+Found heuristic solution: objective 0.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.43 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Warning: linear constraint 12420 and linear constraint 12421 have the same name "Coupling/Decoupling_1_Com_2"
+Optimize a model with 12600 rows, 1080 columns and 1620 nonzeros
+Variable types: 900 continuous, 180 integer (90 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 1e+04]
+  Bounds range     [1e+00, 1e+01]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 101 rows and 0 columns
+Presolve time: 0.05s
+
+Explored 0 nodes (0 simplex iterations) in 1.84 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/05/18 16:05:03
+
+Academic license - for non-commercial use only
+Warning: linear constraint 4140 and linear constraint 4141 have the same name "Coupling/Decoupling_1_Com_2"
+Optimize a model with 4320 rows, 1080 columns and 1620 nonzeros
+Variable types: 900 continuous, 180 integer (90 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 1e+04]
+  Bounds range     [1e+00, 1e+01]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 101 rows and 0 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 13:05:21
+
+Academic license - for non-commercial use only
+Warning: linear constraint 8640 and linear constraint 8641 have the same name "Coupling/Decoupling_1_Com_2"
+Warning: linear constraint 8640 and linear constraint 8641 have the same name "Coupling/Decoupling_1_Com_2"
+Warning: linear constraint 8640 and linear constraint 8641 have the same name "Coupling/Decoupling_1_Com_2"
+Warning: linear constraint 0 and linear constraint 6 have the same name "Cap[0,1]"
+Warning: linear constraint 0 and linear constraint 6 have the same name "Cap[0,1]"
+Warning: linear constraint 0 and linear constraint 6 have the same name "Cap[0,1]"
+Optimize a model with 24 rows, 36 columns and 0 nonzeros
+Variable types: 24 continuous, 12 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve time: 0.04s
+
+Explored 0 nodes (0 simplex iterations) in 0.10 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 14:34:02
+
+Academic license - for non-commercial use only
+Optimize a model with 12 rows, 36 columns and 0 nonzeros
+Variable types: 24 continuous, 12 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 6 rows and 0 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: linear constraint 36 and linear constraint 37 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 36 and linear constraint 37 have the same name "Coupling/Decoupling_0_Com_1"
+Optimize a model with 54 rows, 36 columns and 48 nonzeros
+Variable types: 24 continuous, 12 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 4e+00]
+Presolve removed 6 rows and 0 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: linear constraint 36 and linear constraint 37 have the same name "Coupling/Decoupling_0_Com_1"
+Optimize a model with 60 rows, 36 columns and 48 nonzeros
+Variable types: 24 continuous, 12 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 4e+00]
+Presolve removed 6 rows and 0 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: linear constraint 36 and linear constraint 37 have the same name "Coupling/Decoupling_0_Com_1"
+Optimize a model with 72 rows, 36 columns and 72 nonzeros
+Variable types: 24 continuous, 12 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 4e+00]
+Presolve removed 6 rows and 0 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Optimize a model with 24 rows, 36 columns and 0 nonzeros
+Variable types: 24 continuous, 12 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [0e+00, 0e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [0e+00, 0e+00]
+Found heuristic solution: objective 0.0000000
+
+Explored 0 nodes (0 simplex iterations) in 1.74 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Optimize a model with 36 rows, 36 columns and 24 nonzeros
+Variable types: 24 continuous, 12 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 1e+00]
+
+Loaded MIP start with objective 0
+Processed MIP start in 1.62 seconds
+
+
+Explored 0 nodes (0 simplex iterations) in 1.64 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Optimize a model with 42 rows, 36 columns and 24 nonzeros
+Variable types: 24 continuous, 12 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 1e+00]
+
+Loaded MIP start with objective 0
+
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Optimize a model with 48 rows, 36 columns and 24 nonzeros
+Variable types: 24 continuous, 12 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 1e+00]
+
+Loaded MIP start with objective 0
+
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Optimize a model with 54 rows, 36 columns and 48 nonzeros
+Variable types: 24 continuous, 12 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 4e+00]
+
+Loaded MIP start with objective 0
+Processed MIP start in 1.74 seconds
+
+
+Explored 0 nodes (0 simplex iterations) in 1.76 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 14:50:27
+
+Academic license - for non-commercial use only
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Optimize a model with 54 rows, 36 columns and 48 nonzeros
+Variable types: 24 continuous, 12 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 4e+00]
+Found heuristic solution: objective 0.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.03 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Warning: variables 36 and 45 have the same name "z[0,0]"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: to let Gurobi read it back, use rlp format
+Warning: variables 36 and 45 have the same name "z[0,0]"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 60 rows, 54 columns and 48 nonzeros
+Variable types: 24 continuous, 30 integer (24 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 2e+01]
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint Cap[0,1] by 23.000000000
+
+Presolve removed 36 rows and 0 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.03 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: variables 36 and 45 have the same name "z[0,0]"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: to let Gurobi read it back, use rlp format
+Warning: variables 36 and 45 have the same name "z[0,0]"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: to let Gurobi read it back, use rlp format
+Warning: variables 36 and 45 have the same name "z[0,0]"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: to let Gurobi read it back, use rlp format
+Warning: variables 36 and 45 have the same name "z[0,0]"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: to let Gurobi read it back, use rlp format
+Optimize a model with 90 rows, 54 columns and 96 nonzeros
+Variable types: 24 continuous, 30 integer (24 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 2e+01]
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint Cap[0,1] by 23.000000000
+
+Presolve removed 36 rows and 0 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.03 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 15:28:55
+
+Academic license - for non-commercial use only
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Optimize a model with 54 rows, 45 columns and 48 nonzeros
+Variable types: 24 continuous, 21 integer (15 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 30 rows and 0 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.05 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Optimize a model with 60 rows, 45 columns and 48 nonzeros
+Variable types: 24 continuous, 21 integer (15 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 2e+01]
+Presolve removed 30 rows and 0 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 15:30:43
+
+Academic license - for non-commercial use only
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Optimize a model with 54 rows, 36 columns and 48 nonzeros
+Variable types: 24 continuous, 12 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 4e+00]
+Found heuristic solution: objective 0.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.06 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 15:44:20
+
+Academic license - for non-commercial use only
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Optimize a model with 54 rows, 36 columns and 48 nonzeros
+Variable types: 24 continuous, 12 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 4e+00]
+Found heuristic solution: objective 0.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 17:12:20
+
+Academic license - for non-commercial use only
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Warning: linear constraint 24 and linear constraint 25 have the same name "Coupling/Decoupling_0_Com_1"
+Optimize a model with 54 rows, 36 columns and 48 nonzeros
+Variable types: 24 continuous, 12 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 4e+00]
+Found heuristic solution: objective 0.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.03 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 17:14:42
+
+Academic license - for non-commercial use only
+Optimize a model with 54 rows, 36 columns and 48 nonzeros
+Variable types: 24 continuous, 12 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 2e+02]
+  Bounds range     [1e+00, 3e+00]
+  RHS range        [1e+00, 4e+00]
+Found heuristic solution: objective 0.0000000
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 0 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0000%
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 18:16:06
+
+Academic license - for non-commercial use only
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 18:25:13
+
+Academic license - for non-commercial use only
+Warning: linear constraint 0 and linear constraint 6 have the same name "VUB[s,a]"
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 18:32:21
+
+Academic license - for non-commercial use only
+Optimize a model with 6 rows, 36 columns and 6 nonzeros
+Variable types: 30 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+01, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+02, 1e+02]
+Found heuristic solution: objective 6105.7543387
+Presolve removed 6 rows and 36 columns
+Presolve time: 0.07s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.20 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 6105.75 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 6.105754372643e+03, best bound 6.105754372643e+03, gap 0.0000%
+Optimize a model with 11 rows, 36 columns and 18 nonzeros
+Variable types: 30 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [4e+01, 1e+02]
+
+Loaded MIP start with objective 14621.6
+
+Presolve removed 11 rows and 36 columns
+Presolve time: 0.01s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.22 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 14621.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.462163636364e+04, best bound 1.462163636364e+04, gap 0.0000%
+Optimize a model with 23 rows, 36 columns and 33 nonzeros
+Variable types: 30 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 1e+02]
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R11 by 1.000000000
+
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 18:51:41
+
+Academic license - for non-commercial use only
+Optimize a model with 20 rows, 48 columns and 34 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 1e+02]
+Presolve removed 20 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 14621.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.462163636364e+04, best bound 1.462163636364e+04, gap 0.0000%
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 19:16:20
+
+Academic license - for non-commercial use only
+Warning: constraint name "Max Coupling[s,a]" has a space
+Optimize a model with 25 rows, 48 columns and 45 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 1e+02]
+Presolve removed 4 rows and 34 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 19:18:31
+
+Academic license - for non-commercial use only
+Optimize a model with 19 rows, 48 columns and 33 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 1e+02]
+Presolve removed 19 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 14621.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.462163636364e+04, best bound 1.462163636364e+04, gap 0.0000%
+Warning: constraint name "Max Coupling[s,a]" has a space
+Optimize a model with 25 rows, 48 columns and 39 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 6e+02]
+
+Loaded MIP start with objective 14621.6
+Processed MIP start in 1.72 seconds
+
+Presolve removed 25 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 1.74 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 14621.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.462163636364e+04, best bound 1.462163636364e+04, gap 0.0000%
+Warning: constraint name "Max Coupling[s,a]" has a space
+Optimize a model with 31 rows, 48 columns and 45 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+
+Loaded MIP start with objective 14621.6
+
+Presolve removed 31 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 14621.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.462163636364e+04, best bound 1.462163636364e+04, gap 0.0000%
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 19:25:17
+
+Academic license - for non-commercial use only
+Optimize a model with 31 rows, 48 columns and 45 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+Presolve removed 31 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 14621.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.462163636364e+04, best bound 1.462163636364e+04, gap 0.0000%
+Optimize a model with 37 rows, 48 columns and 60 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+
+Loaded MIP start with objective 14621.6
+
+Presolve removed 37 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 14621.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.462163636364e+04, best bound 1.462163636364e+04, gap 0.0000%
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 19:36:53
+
+Academic license - for non-commercial use only
+Warning: linear constraint 35 and linear constraint 36 have the same name "SlackTimeBound"
+Optimize a model with 41 rows, 48 columns and 60 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 19:43:04
+
+Academic license - for non-commercial use only
+Warning: linear constraint 31 and linear constraint 32 have the same name "SlackTimeBound"
+Optimize a model with 37 rows, 48 columns and 60 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+Presolve removed 37 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 14621.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.462163636364e+04, best bound 1.462163636364e+04, gap 0.0000%
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 19:46:15
+
+Academic license - for non-commercial use only
+Warning: linear constraint 31 and linear constraint 32 have the same name "SlackTimeBound"
+Optimize a model with 37 rows, 48 columns and 60 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+Presolve removed 37 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 14621.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.462163636364e+04, best bound 1.462163636364e+04, gap 0.0000%
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 19:50:12
+
+Academic license - for non-commercial use only
+Optimize a model with 37 rows, 48 columns and 60 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+Presolve removed 37 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 14621.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.462163636364e+04, best bound 1.462163636364e+04, gap 0.0000%
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 19:54:45
+
+Academic license - for non-commercial use only
+Warning: linear constraint 37 and linear constraint 43 have the same name "CoupledCarsUpperBound[s,a]"
+Warning: linear constraint 37 and linear constraint 43 have the same name "CoupledCarsUpperBound[s,a]"
+Optimize a model with 109 rows, 48 columns and 132 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+Presolve removed 1 rows and 29 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: linear constraint 37 and linear constraint 43 have the same name "CoupledCarsUpperBound[s,a]"
+Optimize a model with 145 rows, 48 columns and 168 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+Presolve removed 1 rows and 29 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Warning: linear constraint 37 and linear constraint 43 have the same name "CoupledCarsUpperBound[s,a]"
+Optimize a model with 181 rows, 48 columns and 168 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+Presolve removed 37 rows and 29 columns
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 19:59:18
+
+Academic license - for non-commercial use only
+Optimize a model with 37 rows, 48 columns and 60 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+Presolve removed 37 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 14621.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.462163636364e+04, best bound 1.462163636364e+04, gap 0.0000%
+Optimize a model with 73 rows, 48 columns and 60 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+
+Loaded MIP start with objective 14621.6
+
+Presolve removed 73 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 14621.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.462163636364e+04, best bound 1.462163636364e+04, gap 0.0000%
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 20:03:41
+
+Academic license - for non-commercial use only
+Optimize a model with 5 rows, 48 columns and 12 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [4e+01, 4e+01]
+Presolve removed 5 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 12960 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.296000000000e+04, best bound 1.296000000000e+04, gap 0.0000%
+Optimize a model with 73 rows, 48 columns and 60 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+
+Loaded MIP start with objective 14621.6
+
+Presolve removed 73 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 14621.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.462163636364e+04, best bound 1.462163636364e+04, gap 0.0000%
+Freed default Gurobi environment
+
+Gurobi 8.0.0 (win64, Python) logging started 07/10/18 20:29:51
+
+Academic license - for non-commercial use only
+Optimize a model with 5 rows, 48 columns and 12 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [4e+01, 4e+01]
+Presolve removed 5 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.04 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 12960 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.296000000000e+04, best bound 1.296000000000e+04, gap 0.0000%
+Optimize a model with 73 rows, 48 columns and 60 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+
+Loaded MIP start with objective 14621.6
+
+Presolve removed 73 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.02 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 14621.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.462163636364e+04, best bound 1.462163636364e+04, gap 0.0000%
+
+Gurobi 8.0.0 (win64, Python) logging started 07/11/18 08:31:55
+
+Academic license - for non-commercial use only
+Optimize a model with 5 rows, 48 columns and 12 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [4e+01, 4e+01]
+Presolve removed 5 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.03 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 12960 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.296000000000e+04, best bound 1.296000000000e+04, gap 0.0000%
+Optimize a model with 73 rows, 48 columns and 60 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+
+Loaded MIP start with objective 14621.6
+
+Presolve removed 73 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 14621.6 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.462163636364e+04, best bound 1.462163636364e+04, gap 0.0000%
+Optimize a model with 5 rows, 48 columns and 12 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [4e+01, 4e+01]
+Presolve removed 5 rows and 48 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 1: 12960 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.296000000000e+04, best bound 1.296000000000e+04, gap 0.0000%
+Optimize a model with 77 rows, 48 columns and 60 nonzeros
+Variable types: 42 continuous, 6 integer (6 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 6e+01]
+  Objective range  [2e+00, 5e+02]
+  Bounds range     [1e+00, 5e+00]
+  RHS range        [1e+00, 2e+03]
+
+MIP start did not produce a new incumbent solution
+MIP start violates constraint R12 by 1.000000000
+
+Presolve time: 0.00s
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Solution count 0
+
+Model is infeasible
+Best objective -, best bound -, gap -
